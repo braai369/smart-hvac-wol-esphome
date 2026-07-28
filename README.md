@@ -108,6 +108,16 @@ climate:
       - 'VERTICAL'
 ```
 
+## 📸 Hardware Modification & Assembly
+
+| Intervención Placa UART | Montaje Microcontrolador |
+| :---: | :---: |
+| ![Foto 1](1.jpg) | ![Foto 2](2.jpg) |
+
+| Conexión & Cableado | Pruebas de Banco | Instalación Final |
+| :---: | :---: | :---: |
+| ![Foto 3](3.jpg) | ![Foto 4](4.jpg) | ![Foto 5](5.jpg) |
+
 ---
 
 ## 👤 Author
